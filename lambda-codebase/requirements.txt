@@ -1,1 +1,2 @@
 git+https://github.com/trainyolo/YOLO-ONNX.git
+onnxruntime==1.16.0
